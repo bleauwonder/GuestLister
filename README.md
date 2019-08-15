@@ -20,6 +20,10 @@
 ### See it in action!
 ![guestlister gif demo](./public/images/guestlister-demo.gif)
 
+### Mailgun Feature
+![mailgun email welcome](./public/images/Mailgun-welcome.png)
+![mailgun email questions](./public/images/Mailgun-questions.png)
+
 ## Technology Used
 #### * HTML and Bootstrap
 #### * Handlebars
